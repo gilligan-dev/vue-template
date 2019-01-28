@@ -11,13 +11,15 @@
 import HelloWorld from './components/HelloWorld'
 import Test2 from './components/Test2'
 import New from './components/New'
+import Hello from './components/Hello'
 
 export default {
   name: 'App',
   components: {
     HelloWorld,
     Test2,
-    New
+    New,
+    Hello
   }
 }
 </script>

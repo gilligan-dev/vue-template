@@ -6,10 +6,10 @@
 
 <script>
 export default {
-  name: 'New',
+  name: 'Hello',
   data () {
     return {
-      test: 'Hello World!'
+      test: 'Does this work???'
     }
   }
 }

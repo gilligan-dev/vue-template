@@ -9,7 +9,7 @@ export default {
   name: 'Test',
   data () {
     return {
-      test: 'New Component called test1'
+      test: 'New Component called test2'
     }
   }
 }
